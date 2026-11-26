@@ -4,6 +4,8 @@ A single archive for research preprints and their reproducibility materials. The
 
 | Preprint | What it establishes | Editable source, code, and certificates |
 | --- | --- | --- |
+| [Polynomial bounds for branching degrees in the Gilbert–Steiner problem](gilbert-steiner-degrees.pdf) | Answers Question 1.2 with fixed-parameter superlinear lower and polynomial upper bounds. The exponent is sharp for equal-sink stars. | [Gilbert–Steiner supplement](gilbert-steiner-degrees-supplement.zip) |
+| [九根圆柱与单位球相切的半径上界](cylinders-upper-bounds.pdf) | Proves strict upper bounds of 0.6453 and 0.619 for nine and ten cylinders, respectively. The insertion conjecture remains open. | [Upper-bound certificates](cylinders-upper-bounds-supplement.zip) |
 | [Certified lower bounds for eight, nine and ten cylinders touching a unit sphere](cylinders-lower-bounds.pdf) | Gives exact configurations with strictly larger lower bounds for the three common radii. The eight-ring insertion question remains open. | [Cylinder packing supplement](cylinders-lower-bounds-supplement.zip) |
 | [The unique spectrally closest competitor to a balanced complete tripartite graph](closest-tripartite-graph.pdf) | Solves Conjecture 20 in both spectral distances for all n ≥ 3, including disconnected competitors. | [Closest-tripartite supplement](closest-tripartite-supplement.zip) |
 | [A certified A7 minimizer for two-site Lennard–Jones crystals](A7-Lennard-Jones.pdf) | At volume 269/250 per particle, A7 is uniquely optimal in the full two-site periodic class; a three-site structure has lower energy. | [A7 supplement](a7-supplement.zip) |
@@ -23,5 +25,9 @@ Each supplement contains a README with replay commands. To check the published d
 5. **谱图最近邻**：完整解决第 20 条猜想。对每个 n ≥ 3，两种距离下都是同一张图唯一最接近。
 
 6. **圆柱密堆积**：给出 8、9、10 根等半径圆柱围住单位球的精确构型，分别证明最大半径大于 0.70215、0.61196 和 0.54515。
+
+7. **圆柱半径上界**：九柱上界从 0.726 降到 0.6453，十柱半径严格小于 0.619。猜想指定的半径上，最多能放的根数只剩 8 或 9。
+
+8. **分支运输**：证明高维最优网络的最大分叉度至少能超线性增长、至多按多项式增长；单源、各终点等需求时，上下界的增长指数一致。
 
 各篇 PDF、可编辑原稿、证明代码和复现说明均可从上表下载。
