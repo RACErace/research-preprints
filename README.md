@@ -4,6 +4,7 @@ A single archive for research preprints and their reproducibility materials. The
 
 | Preprint | What it establishes | Editable source, code, and certificates |
 | --- | --- | --- |
+| [Unbounded branching degree in three-dimensional Gilbert–Steiner flows](gilbert-steiner-unbounded.pdf) | Answers the separate dimension-only question negatively: optimal three-dimensional stars have arbitrarily high degree as the cost exponent approaches one and mass ratios grow. | [Editable proof and audit](gilbert-steiner-unbounded-supplement.zip) |
 | [Polynomial bounds for branching degrees in the Gilbert–Steiner problem](gilbert-steiner-degrees.pdf) | Answers Question 1.2 with fixed-parameter superlinear lower and polynomial upper bounds. The exponent is sharp for equal-sink stars. | [Gilbert–Steiner supplement](gilbert-steiner-degrees-supplement.zip) |
 | [九根圆柱与单位球相切的半径上界](cylinders-upper-bounds.pdf) | Proves strict upper bounds of 0.6453 and 0.619 for nine and ten cylinders, respectively. The insertion conjecture remains open. | [Upper-bound certificates](cylinders-upper-bounds-supplement.zip) |
 | [九柱插入猜想的平行轴剪枝（补充）](cylinders-parallel-pruning.pdf) | At the conjectured radius, a nine-cylinder packing cannot have five parallel axes or eight coplanar axis directions. | [Supplementary certificates](cylinders-parallel-pruning-supplement.zip) |
@@ -31,5 +32,7 @@ Each supplement contains a README with replay commands. To check the published d
 7. **圆柱半径上界**：九柱上界从 0.726 降到 0.6453，十柱半径严格小于 0.619。猜想指定的半径上，最多能放的根数只剩 8 或 9。
 
 8. **分支运输**：证明高维最优网络的最大分叉度至少能超线性增长、至多按多项式增长；单源、各终点等需求时，上下界的增长指数一致。
+
+9. **三维分叉无上限**：固定在三维，若允许成本指数和需求量改变，最优网络中一个结点可有任意多条支路。需求量之比受限时，单源星形网络有统一上限。
 
 各篇 PDF、可编辑原稿、证明代码和复现说明均可从上表下载。
