@@ -4,6 +4,7 @@ A single archive for research preprints and their reproducibility materials. The
 
 | Preprint | What it establishes | Editable source, code, and certificates |
 | --- | --- | --- |
+| [Certified lower bounds for eight, nine and ten cylinders touching a unit sphere](cylinders-lower-bounds.pdf) | Gives exact configurations with strictly larger lower bounds for the three common radii. The eight-ring insertion question remains open. | [Cylinder packing supplement](cylinders-lower-bounds-supplement.zip) |
 | [The unique spectrally closest competitor to a balanced complete tripartite graph](closest-tripartite-graph.pdf) | Solves Conjecture 20 in both spectral distances for all n ≥ 3, including disconnected competitors. | [Closest-tripartite supplement](closest-tripartite-supplement.zip) |
 | [A certified A7 minimizer for two-site Lennard–Jones crystals](A7-Lennard-Jones.pdf) | At volume 269/250 per particle, A7 is uniquely optimal in the full two-site periodic class; a three-site structure has lower energy. | [A7 supplement](a7-supplement.zip) |
 | [Sharp adjacency spectral-tail bounds at rank six](spectral-rank-six.pdf) | Answers Problem 21 of Jovanović–Sedlar–Škrekovski and derives sharp trimmed-spectrum bounds. All closest competitors to the balanced tripartite graph have adjacency rank at most five. This is the rank reduction used in the Conjecture 20 paper above. | [Spectral rank supplement](spectral-rank-supplement.zip) |
@@ -20,5 +21,7 @@ Each supplement contains a README with replay commands. To check the published d
 4. **Bernoulli 不等式**：覆盖同一概率区间内的所有实数参数，但只证明最多十个正权重的情况。
 
 5. **谱图最近邻**：完整解决第 20 条猜想。对每个 n ≥ 3，两种距离下都是同一张图唯一最接近。
+
+6. **圆柱密堆积**：给出 8、9、10 根等半径圆柱围住单位球的精确构型，分别证明最大半径大于 0.70215、0.61196 和 0.54515。
 
 各篇 PDF、可编辑原稿、证明代码和复现说明均可从上表下载。
