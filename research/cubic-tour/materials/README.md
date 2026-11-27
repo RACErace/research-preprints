@@ -12,10 +12,8 @@
 | 6. 任意点数下的投影、角簇与覆盖球 | 59 | [下载](cubic-tsp-cube-regions-source.zip) |
 | 7. 十一点定理、加权直径球与稠密性 | 71 | [下载](cubic-tsp-cube-eleven-points-source.zip) |
 
-旧版说明中提到的独立 PDF 或旧仓库路径，可从[原始快照](https://github.com/RACErace/research-preprints/tree/c581f547663df38a0e01e4edf5f1d9304e2f44ec)查看。
-
 ## 大型证书
 
 - 第三章九点森林：[分卷和校验](cubic-tsp-cube-multiscale-data/)。
-- 第四章带余量森林：[分卷和校验](cubic-tsp-cube-reordering-data/)。第五章的旧脚本以分卷目录的上一级为参数：先解压源码包，再运行 `bash reconstruct.sh /绝对路径/research-preprints/research/cubic-tour/materials`。脚本、分卷及摘要均未改动。
+- 第四章带余量森林：[分卷和校验](cubic-tsp-cube-reordering-data/)。第五章的重建脚本以复现材料目录为参数：先解压源码包，再运行 `bash reconstruct.sh /绝对路径/research-preprints/research/cubic-tour/materials`。脚本、分卷及摘要均未改动。
 - 第七章十一点森林可由源码包从头生成，再用其中的独立检查器核验；无需下载上述分卷。

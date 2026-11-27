@@ -8,5 +8,3 @@
 | 2. 三维无统一度上限的构造 | 5 | [下载](gilbert-steiner-unbounded-supplement.zip) |
 | 3. 等需求与可比较需求 | 8 | [下载](gilbert-steiner-comparable-supplement.zip) |
 | 4. 固定维数时的需求比界 | 11 | [下载](gilbert-steiner-demand-ratio-supplement.zip) |
-
-旧版说明中提到的独立 PDF 或旧仓库路径，可从[原始快照](https://github.com/RACErace/research-preprints/tree/c581f547663df38a0e01e4edf5f1d9304e2f44ec)查看。

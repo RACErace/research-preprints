@@ -9,5 +9,3 @@
 | 3. 平行轴与共面方向剪枝 | 10 | [下载](cylinders-parallel-pruning-supplement.zip) |
 | 4. 非平行接触边与参数约化 | 16 | [下载](cylinders-skew-contact-supplement.zip) |
 | 5. 接触图与正交锚边 | 24 | [下载](cylinders-orthogonal-anchor-supplement.zip) |
-
-旧版说明中提到的独立 PDF 或旧仓库路径，可从[原始快照](https://github.com/RACErace/research-preprints/tree/c581f547663df38a0e01e4edf5f1d9304e2f44ec)查看。

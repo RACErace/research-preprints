@@ -14,6 +14,6 @@
 | [三条 Graffiti.pc 不等式](research/graffiti/paper.pdf) | 所列三条命题已处理 | [材料](research/graffiti/materials/) |
 | [加权 Bernoulli 不等式](research/weighted-bernoulli/paper.pdf) | 完整猜想仍未解决 | [材料](research/weighted-bernoulli/materials/) |
 
-[文献与优先权核查](docs/PRIOR-WORK.md) · [旧链接与章节页码对照](docs/previous-edition.md)
+[文献与优先权核查](docs/PRIOR-WORK.md)
 
 用 `sha256sum -c SHA256SUMS` 校验仓库文件。
